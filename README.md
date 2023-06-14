@@ -8,14 +8,14 @@
 
 <p align="center">
   <em>
-    Hello, I am Heeseung Jeong a <b>first year</b> undergraduate from <b>Seoul National University, department of physics and astronomy</b>.  <br>
-    I'm studying about <b>Physics</b> and <b>Algorithms</b>
+    Hello, I am Heeseung Jeong a <b>third year</b> undergraduate from <b>Seoul National University, department of physics and astronomy & mathematical science</b>.  <br>
+    I'm studying about <b>Physics</b> and <b>Maths</b>.
   </em> 
   <br>
 </p>
 
-- 🌱 I’m currently learning Physics, Algorithms.
-- 📫 How to reach me: tzeroneh@gmail.com
+- 🌱 I’m currently learning Physics, Maths.
+- 📫 How to reach me: tzeroneh@snu.ac.kr
 <!--
 **gs18103/gs18103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
