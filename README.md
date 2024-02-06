@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Heeseung Jeong </h1>
 
 <p align = "center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=gs18103" align = "center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gs18103" align = "center">
 </p>
 
 
