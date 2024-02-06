@@ -4,7 +4,7 @@
 <p align = "center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gs18103" align = "center">
 </p>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gs18103)](https://solved.ac/gs18103)
+[(http://mazassumnida.wtf/api/v2/generate_badge?boj=gs18103)](https://solved.ac/gs18103)
 
 <p align="center">
   <em>
